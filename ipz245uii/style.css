@@ -6,8 +6,8 @@
 
 body {
   font-family: Arial, sans-serif;
-  background: #f4f4f4;
-  color: #333;
+  background: #e8f0fe;
+  color: #1a1a2e;
 }
 
 header {
@@ -22,7 +22,7 @@ header h1 {
 }
 
 #news-container {
-  max-width: 900px;
+  max-width: 860px;
   margin: 30px auto;
   padding: 0 20px;
   display: flex;
